@@ -217,7 +217,6 @@ speedtest.imcloud.tw
 starharn-cf.nebula-media.org
 starharn.nebula-media.org
 super.yezi.my
-us.nanflix.net
 web-starharn.nebula-media.org
 web.nebula-media.org
 z.sfcj.org
